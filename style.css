@@ -9,4 +9,19 @@
     color: #fff;
     padding: 10px 0;
     font-size: 16px;
+    margin-top: 15px;
+}
+#todos{
+    border: 1px solid grey;
+    padding: 15px;
+}
+.box{
+    display: flex;
+    background-color: green;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
 }
